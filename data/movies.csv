@@ -1,0 +1,11 @@
+movie_id,title,genres,overview,cast,director,popularity
+1,Inception,"Action, Sci-Fi, Thriller","A skilled thief enters dreams to steal valuable secrets.","Leonardo DiCaprio, Joseph Gordon-Levitt","Christopher Nolan",8.8
+2,The Dark Knight,"Action, Crime, Drama","Batman battles the Joker, who brings chaos to Gotham.","Christian Bale, Heath Ledger","Christopher Nolan",9.0
+3,Interstellar,"Adventure, Drama, Sci-Fi","Astronauts travel through a wormhole in search of a new home.","Matthew McConaughey, Anne Hathaway","Christopher Nolan",8.6
+4,Titanic,"Drama, Romance","A love story unfolds aboard the ill-fated Titanic.","Leonardo DiCaprio, Kate Winslet","James Cameron",7.9
+5,Avengers: Endgame,"Action, Adventure, Sci-Fi","The Avengers unite to undo Thanos' devastating snap.","Robert Downey Jr., Chris Evans","Anthony Russo, Joe Russo",8.4
+6,Shutter Island,"Mystery, Thriller","A detective investigates mysterious disappearances at a psychiatric facility.","Leonardo DiCaprio, Mark Ruffalo","Martin Scorsese",8.2
+7,Parasite,"Comedy, Drama, Thriller","A poor family infiltrates a wealthy household with unforeseen consequences.","Song Kang-ho, Choi Woo-shik","Bong Joon-ho",8.6
+8,The Matrix,"Action, Sci-Fi","A hacker discovers that reality is a simulated illusion controlled by AI.","Keanu Reeves, Laurence Fishburne","Lana Wachowski, Lilly Wachowski",8.7
+9,Gladiator,"Action, Drama","A betrayed Roman general fights as a gladiator for vengeance.","Russell Crowe, Joaquin Phoenix","Ridley Scott",8.5
+10,Forrest Gump,"Drama, Romance","A kind-hearted man with a low IQ experiences extraordinary historical events.","Tom Hanks, Robin Wright","Robert Zemeckis",8.8

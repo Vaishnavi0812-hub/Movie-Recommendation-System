@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Movie Recommendations</h1>
+
+    <!-- Input and Button to get recommendations -->
+    <div class="movie-input-container">
+        <input type="text" id="movieInput" placeholder="Enter a movie name">
+        <button id="recommendButton">Get Recommendations</button>
+    </div>
+
+    <!-- Area to display recommended movies -->
+    <div id="movieList" class="movie-container">
+        <!-- Recommendations will be added dynamically here -->
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
